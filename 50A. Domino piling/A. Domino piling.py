@@ -30,7 +30,7 @@ Output one number — the maximal number of dominoes, which can be placed.
 # Code
 def get_input():
     #"Please enter the number of rows: " "Please enter the number of columns: "
-    m,n = input()
+    m,n = input().split()
 # check if the input is a number
     if m.isdigit() and n.isdigit():
         m=int(m)
