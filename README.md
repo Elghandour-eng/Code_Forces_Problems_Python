@@ -9,5 +9,7 @@ This ia an public repository for Accepted solution with **Python** of coding pro
    https://codeforces.com/problemset/problem/231/A
 - 4-1A  Theatre Square
    https://codeforces.com/problemset/problem/1/A
+- 5-50A Domino piling
+   https://codeforces.com/problemset/problem/50/A
   
 
